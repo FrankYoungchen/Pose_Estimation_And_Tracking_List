@@ -2,11 +2,11 @@
 This is what I collected of Pose_Estimation_And_Tracking_List
 
 ## Top-down
-一、Stacked Hourglass Network(cvpr2018)
-Paper：Stacked Hourglass Networks for Human Pose Estimation
-https://github.com/Naman-ntc/Pytorch-Human-Pose-Estimation
-二、CPM(cvpr2016)
-paper:  Convolutional Pose Machines
+一、Stacked Hourglass Network(cvpr2018) 
+Paper：Stacked Hourglass Networks for Human Pose Estimation 
+https://github.com/Naman-ntc/Pytorch-Human-Pose-Estimation 
+二、CPM(cvpr2016) 
+paper:  Convolutional Pose Machines 
 tensorflow：https://github.com/timctho/convolutional-pose-machines-tensorflow
 pytorch:  https://github.com/timctho/convolutional-pose-machines-tensorflow
 三、CPN(cvpr2018)
