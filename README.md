@@ -30,9 +30,9 @@ https://github.com/princeton-vl/pose-ae-train
 一、LightTrack
 Paper:  A Generic Framework for Online Top-Down Human Pose Tracking(京东出品)
 https://github.com/Guanghan/lighttrack
-二、Detect And Track(cvpr2018)
-paper:Detect And Track: Efficient Pose Estimation in Videos
-https://github.com/search?q=Efficient+Pose+Estimation+in+Videos
-三、Simple Baselines(ECCV2018)
-paper:  Simple Baselines for Human Pose Estimation and Tracking
-https://github.com/Microsoft/human-pose-estimation.pytorch
+二、Detect And Track(cvpr2018) 
+paper:Detect And Track: Efficient Pose Estimation in Videos 
+https://github.com/search?q=Efficient+Pose+Estimation+in+Videos 
+三、Simple Baselines(ECCV2018) 
+paper:  Simple Baselines for Human Pose Estimation and Tracking 
+https://github.com/Microsoft/human-pose-estimation.pytorch 
