@@ -27,9 +27,9 @@ paper：End-to-End Learning for Joint Detection and Grouping
 https://github.com/princeton-vl/pose-ae-train
 
 ## Pose Detect And Tracking
-一、LightTrack
-Paper:  A Generic Framework for Online Top-Down Human Pose Tracking(京东出品)
-https://github.com/Guanghan/lighttrack
+一、LightTrack 
+Paper:  A Generic Framework for Online Top-Down Human Pose Tracking(京东出品) 
+https://github.com/Guanghan/lighttrack 
 二、Detect And Track(cvpr2018) 
 paper:Detect And Track: Efficient Pose Estimation in Videos 
 https://github.com/search?q=Efficient+Pose+Estimation+in+Videos 
